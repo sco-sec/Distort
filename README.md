@@ -3,4 +3,4 @@ This script is a password mutation (wordlist generation) tool that takes a base 
 
 Usage:
 
-./distort.py -l 9 -i wordlist.txt -o disortedlist.txt
+./distort.py -l 9 -i passwordlist.txt -o disortedlist.txt
