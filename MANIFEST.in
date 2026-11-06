@@ -1,0 +1,5 @@
+include distort.py
+include RESPONSIBLE_USE.md WORDLISTS.md requirements-dev.txt
+recursive-include benchmarks *.py
+recursive-include examples *
+recursive-include tests/fixtures *.md *.txt
